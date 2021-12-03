@@ -74,4 +74,5 @@ plt.subplot(224)
 plt.imshow(Result, "gray")
 plt.title("Result")
 
+
 plt.show()
