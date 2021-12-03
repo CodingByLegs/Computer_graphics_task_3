@@ -20,7 +20,6 @@ def notch_reject_filter(shape, d0=9, u_k=0, v_k=0):
                 H[u, v] = 1.0
     return H
 
-
 def set_plot_title(title, fs=16):
     plt.title(title, fontsize=fs)
 
